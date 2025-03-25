@@ -173,4 +173,4 @@ sns.pairplot(df)
 
 
 # RESULT:
-      We have performed Exploratory Data Analysis on the given data set successfully.
+We have performed Exploratory Data Analysis on the given data set successfully.
