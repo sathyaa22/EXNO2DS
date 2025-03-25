@@ -162,7 +162,7 @@ sns.catplot(data=df,col="Survived",x="Gender",hue="Pclass",kind="count")
 corr=df.corr()
 sns.heatmap(corr,annot=True)
 ```
-![image](https://github.com/user-attachments/assets/61c8d145-d17a-4b06-b75c-d39630a36ae8)
+![image](https://github.com/user-attachments/assets/c0a356cb-9e68-4f86-9e49-b5b9e1068b7b)
 
 
 ```
